@@ -1,40 +1,19 @@
 {
-  "business": {
     "name": "Fayetteville Mercantile",
-    "tagline": "Local goods. Arkansas pride. Downtown Fayetteville energy.",
-    "address": "31 N. Block Ave, Fayetteville, AR 72701",
+    "address": "31 N. Block Ave Fayetteville, AR 72701",
     "email": "fayettevillemercantile@gmail.com",
-    "locationNote": "Located in downtown Fayetteville off the Fayetteville Square.",
-    "shipping": "$5 flat fee shipping",
-    "policy": "All sales are final as Fayetteville Mercantile pays out its makers.",
     "shopUrl": "https://www.fayettevillemercantile.com/s/shop",
-    "facebook": "https://www.facebook.com/fayettevillemercantile",
-    "instagram": "https://www.instagram.com/fayettevillemercantile/"
-  },
-  "categories": [
-    {
-      "name": "Fayetteville Shirts",
-      "link": "https://www.fayettevillemercantile.com/shop/fayetteville-shirts/2",
-      "description": "Local tees and apparel that feel like the Square, game day, and Fayetteville weekends."
-    },
-    {
-      "name": "Razorback Shirts",
-      "link": "https://www.fayettevillemercantile.com/shop/razorback-shirts/3",
-      "description": "Arkansas pride pieces for fans, alumni, parents, and visitors."
-    },
-    {
-      "name": "Jewelry & Accessories",
-      "link": "https://www.fayettevillemercantile.com/shop/jewelryaccessories/4",
-      "description": "Small-batch accessories, gifts, accents, and everyday favorites."
-    },
-    {
-      "name": "Bath & Body",
-      "link": "https://www.fayettevillemercantile.com/shop/bath-body/6",
-      "description": "Thoughtful self-care, maker-made goods, and easy gift add-ons."
-    },
-    {
-      "name": "Homegoods",
-      "link": "https://www.fayettevillemercantile.com/shop/homegoods/5",
+    "collections": [
+        "Fayetteville Shirts",
+        "Razorback Shirts",
+        "Jewelry & Accessories",
+        "Bath & Body",
+        "Homegoods",
+        "Local Gifts"
+    ],
+    "shipping": "$5 flat fee shipping",
+    "policy": "All sales are final because makers are paid out."
+}      "link": "https://www.fayettevillemercantile.com/shop/homegoods/5",
       "description": "Fayetteville finds, local home accents, and pieces with personality."
     }
   ],
